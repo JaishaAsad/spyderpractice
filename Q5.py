@@ -1,0 +1,5 @@
+print ("    CALCULATE VOLUME OF SPHERE ")
+print ( " please provide radius of sphere")
+radius = input ()
+area_of_sphere = 4*3.141*float(radius)*float (radius)
+print ("THE AREA OF SPHERE ="+str(area_of_sphere))
